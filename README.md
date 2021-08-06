@@ -10,3 +10,9 @@ de boeufs ! Quand les 10 cartes sont jouées, chacun compte ses boeufs et les ad
 précédent. Après plusieurs manches, le plus petit troupeau gagnera la partie. <br>
 
 [En vidéo, c'est plus facile de comprendre ;)](https://www.youtube.com/watch?v=nyEeu7PnbQI)
+
+**Compte-rendu du Programme :**
+
+![0001](https://user-images.githubusercontent.com/61350744/128552146-093a015c-d33a-4423-8a0b-0900158f047c.jpg)
+![0002](https://user-images.githubusercontent.com/61350744/128552181-958d4128-4b5a-4f7a-92eb-de2b785b2002.jpg)
+

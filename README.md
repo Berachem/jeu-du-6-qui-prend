@@ -11,7 +11,7 @@ précédent. Après plusieurs manches, le plus petit troupeau gagnera la partie.
 
 [En vidéo, c'est plus facile de comprendre ;)](https://www.youtube.com/watch?v=nyEeu7PnbQI)
 
-**Compte-rendu du Programme :** [*le carnet de bord*](https://github.com/Berachem/jeu-du-6-qui-prend/files/6947232/Melvin_Jessy_et_Berachem_Carnet_de_bord_PROJET.pdf)
+**Compte-rendu du Programme :** [*le carnet de bord*](https://github.com/Berachem/jeu-du-6-qui-prend/files/6947232/Melvin_Jessy_et_Berachem_Carnet_de_bord_PROJET.pdf) / [*Compte rendu*](https://github.com/Berachem/jeu-du-6-qui-prend/files/6947238/Melvin_Jessy_et_Berachem_Compte-rendu_projet.pdf) (ci-dessous en image)
 
 
 ![0001](https://user-images.githubusercontent.com/61350744/128552146-093a015c-d33a-4423-8a0b-0900158f047c.jpg)

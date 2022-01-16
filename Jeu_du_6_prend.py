@@ -533,7 +533,7 @@ def jeu_du_6_qui_prend(nb_joueurs, nb_IA):
                 placement_carte(series, s, c, historique_cartes)
 
 
-    # Affichage des séries
+    # Affichage des series
     print("―――――――――――――――――――――――――――――――――――")
     for i in range(4):
         print("Série ", i+1, " :       avec", len(series[i]), "cartes")
